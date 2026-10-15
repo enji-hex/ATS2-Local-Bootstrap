@@ -12,8 +12,10 @@ smoke test.
 
 ## Usage
 
+```bash
 ./bootstrap.sh        # build and run smoke test
 ./bootstrap.sh --test # run smoke test using the local build
+```
 
 ## Compatibility workaround
 
