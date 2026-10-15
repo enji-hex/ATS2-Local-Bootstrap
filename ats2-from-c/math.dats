@@ -15,6 +15,7 @@ extern fun ats_sum_array
   (p: ptr, n: int): int = "ext#ats_sum_array"
 
 
+// https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/x162.html
 // val - constant
 // var - mutable variable
 // let .. in .. end - local scope
